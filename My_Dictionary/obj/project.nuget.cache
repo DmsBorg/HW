@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iLrhHhwpMHHBIHvdSw9ckwxVpJOYdagq3pbBWNZWMoUkFQkZGThdMam4VtJf08wwNysm7owEkTLvKgIjR2j4Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user_dms\\Desktop\\Homework\\C# Visual Studio\\My_Dictionary\\My_Dictionary\\My_Dictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user_dms\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

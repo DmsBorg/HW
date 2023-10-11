@@ -1,0 +1,17 @@
+C:\Users\user_dms\Desktop\Homework\C# Visual Studio\My_Dictionary\My_Dictionary\bin\Debug\net7.0\My_Dictionary.exe
+C:\Users\user_dms\Desktop\Homework\C# Visual Studio\My_Dictionary\My_Dictionary\bin\Debug\net7.0\My_Dictionary.deps.json
+C:\Users\user_dms\Desktop\Homework\C# Visual Studio\My_Dictionary\My_Dictionary\bin\Debug\net7.0\My_Dictionary.runtimeconfig.json
+C:\Users\user_dms\Desktop\Homework\C# Visual Studio\My_Dictionary\My_Dictionary\bin\Debug\net7.0\My_Dictionary.dll
+C:\Users\user_dms\Desktop\Homework\C# Visual Studio\My_Dictionary\My_Dictionary\bin\Debug\net7.0\My_Dictionary.pdb
+C:\Users\user_dms\Desktop\Homework\C# Visual Studio\My_Dictionary\My_Dictionary\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user_dms\Desktop\Homework\C# Visual Studio\My_Dictionary\My_Dictionary\obj\Debug\net7.0\My_Dictionary.csproj.AssemblyReference.cache
+C:\Users\user_dms\Desktop\Homework\C# Visual Studio\My_Dictionary\My_Dictionary\obj\Debug\net7.0\My_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user_dms\Desktop\Homework\C# Visual Studio\My_Dictionary\My_Dictionary\obj\Debug\net7.0\My_Dictionary.AssemblyInfoInputs.cache
+C:\Users\user_dms\Desktop\Homework\C# Visual Studio\My_Dictionary\My_Dictionary\obj\Debug\net7.0\My_Dictionary.AssemblyInfo.cs
+C:\Users\user_dms\Desktop\Homework\C# Visual Studio\My_Dictionary\My_Dictionary\obj\Debug\net7.0\My_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\user_dms\Desktop\Homework\C# Visual Studio\My_Dictionary\My_Dictionary\obj\Debug\net7.0\My_Dictionary.csproj.CopyComplete
+C:\Users\user_dms\Desktop\Homework\C# Visual Studio\My_Dictionary\My_Dictionary\obj\Debug\net7.0\My_Dictionary.dll
+C:\Users\user_dms\Desktop\Homework\C# Visual Studio\My_Dictionary\My_Dictionary\obj\Debug\net7.0\refint\My_Dictionary.dll
+C:\Users\user_dms\Desktop\Homework\C# Visual Studio\My_Dictionary\My_Dictionary\obj\Debug\net7.0\My_Dictionary.pdb
+C:\Users\user_dms\Desktop\Homework\C# Visual Studio\My_Dictionary\My_Dictionary\obj\Debug\net7.0\My_Dictionary.genruntimeconfig.cache
+C:\Users\user_dms\Desktop\Homework\C# Visual Studio\My_Dictionary\My_Dictionary\obj\Debug\net7.0\ref\My_Dictionary.dll
